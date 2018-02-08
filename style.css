@@ -1,0 +1,44 @@
+#box {display: block;display: block;
+	width: 977px;
+	margin: 50px auto;
+	padding: 30x;
+	text-align: center;
+	border: 8px;
+	background:pink;
+}
+
+
+nav {
+padding: 8px;
+background-color: #dddddd;
+float: center;
+}
+li {display: inline;
+padding: 8px;
+background-color: #dddddd;}
+#big_wrapper {max-width: 1000px;
+margin: 0px 0px;
+display: -webkit-box;
+-webkit-box-orient:vertical;
+-webkit-box-flex:1;}
+h2 {color: black;
+padding: 5px;}
+
+img {max-width: 100%;}
+
+img b {
+vertical-align: right;}
+p{color: black;}
+h1{padding: 10px;color: black;
+	header{background-image: url(loggo.png);background-repeat: no-repeat;background-size: 200px;width: 600;length:400;
+		background-color:pink;}
+
+title{background-image: url(photo7.jpg)background-repeat:no-repeat;border: 5px solid black; }
+
+
+
+
+
+
+
+
